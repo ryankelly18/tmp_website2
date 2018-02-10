@@ -3,17 +3,18 @@
  =========================================================
  * Gaia Bootstrap Template - v1.0.1
  =========================================================
- 
+
  * Product Page: https://www.creative-tim.com/product/gaia-bootstrap-template
  * Copyright 2017 Creative Tim (http://www.creative-tim.com)
  * Licensed under MIT (https://github.com/creativetimofficial/gaia-bootstrap-template/blob/master/LICENSE.md)
- 
+
  =========================================================
- 
+
  * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
  */
- 
+
 /*      light colors         */
+
 html {
   font-size: 14px;
   -ms-text-size-adjust: 100%;
@@ -153,7 +154,7 @@ a {
   font-size: 14px;
 }
 a:hover {
-  color: #777777;
+  color: #000000;
   opacity: 1;
 }
 
@@ -1114,7 +1115,7 @@ a,
   background: #50236F;
 }
 .filter.filter-color-red:before {
-  background: #de6168;
+  background: #555555;
 }
 .filter.filter-gradient-black:before {
   background: #1f1c2c;
@@ -1629,7 +1630,7 @@ a,
   height: 100%;
   width: 100%;
   position: absolute;
-  background-color: rgba(17, 17, 17, 0.8);
+  background-color: rgba(59, 17, 17, 0.8);
   display: block;
   content: "";
   z-index: 1;
